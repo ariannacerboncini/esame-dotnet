@@ -19,6 +19,12 @@ Infine ho sistemato i margini del main, modificato lo stile delle liste delle al
 - *Implementa una seconda versione delle pagine web incorporando lo stile css di Bootstrap*
 
 Partendo dall'assignment 1, ho semplicemente aggiunto le CDN di Bootstrap relative al CSS e a JavaScript, per poi cambiare la navbar in una navbar collapsable di boostrap, eliminando il gradiente dei titoli per rendere il sito più sobrio e leggibile.
+<br>
 
+## Assignment 3 & 4
+- *Crea un file.md formattato che descriva il tuo workflow*
+- *Versiona il codice utilizzando Github*
+
+Ho creato il file **README.md** ed ho caricato la cartella dell'esame nella repository [https://github.com/ariannacerboncini/esame-dotnet](https://github.com/ariannacerboncini/esame-dotnet)
 
 
